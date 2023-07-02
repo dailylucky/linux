@@ -4,6 +4,9 @@ imxdownload
 *.bin
 *.dis
 
+# vscode workspace settings
+.vscode
+
 
 # ignore template from "https://github.com/github/gitignore/blob/main/C.gitignore"
 # Prerequisites
